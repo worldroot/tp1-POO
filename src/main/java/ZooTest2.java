@@ -8,7 +8,6 @@ import org.junit.Test;
 
 public class ZooTest2 {
 
-	@Ignore
 	@Test
 	public void unTest()  {
 		zoo zoo1 = new zoo();
